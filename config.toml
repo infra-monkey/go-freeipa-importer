@@ -1,0 +1,4 @@
+hostname = "ipa.ipatest.lan"
+principal = "admin"
+principalPassword = "SuperPassword"
+insecureConnection = true
